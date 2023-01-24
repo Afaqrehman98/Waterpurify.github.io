@@ -113,7 +113,8 @@ h4{
 		display: inline;
 	}
 		.register li .btn{
-			background-color: #1B9FDD;
+			border-radius: 16% !important;
+			background-color: #54bdeb;
 			
 		}
 		.register li i{
@@ -138,9 +139,11 @@ h4{
 		text-decoration: none;
 	}
 		.links li a{
+			background-color: #A6CE39;
+			border-radius: 16%;
 			color: #191b1d;
 			font-size: 20px;
-			padding: 20px;
+			padding: 16px;
 			font-weight: bold;
 		}
 /*End of aboutus*/
