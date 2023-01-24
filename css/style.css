@@ -1,11 +1,11 @@
 html,body{
 	margin:0px;
 	padding:0px;
-	font-family: "roboto-Regular" !important;
+	font-family: 'Raleway', sans-serif !important;
 }
 /*Start Fonts*/
 @font-face{
-	font-family: "roboto-Regular";
+	font-family: 'Raleway', sans-serif;
 	src: url("../font/roboto-Regular.ttf");
 }
 /*End Fonts*/
@@ -13,8 +13,8 @@ html,body{
 /*Start of buttons*/
 .btn{
 	border-radius: 0px !important;
-	background-color: #fbd0c6;
-	font-family: "roboto-Regular";
+	background-color: #1B9FDD;
+	font-family: 'Raleway', sans-serif;
 	padding: 0px 10px;
 	padding-right: 10px;
 	padding-left: 10px;
@@ -29,20 +29,20 @@ h3{
 	color: #191b1d;
 	text-align: center;
 	font-size: 25px;
-	font-family: "roboto-Regular";
+	font-family: 'Raleway', sans-serif;
 	font-weight: bold;
 	padding-top: 50px;
 }
 h2{
 	color: #191b1d;
 	text-align: center;
-	font-family: "roboto-Regular";
+	font-family: 'Raleway', sans-serif;
 	font-weight: bold;
 	padding-top: 50px;
 }
 p{
 	color: #191b1d;
-	font-family: "roboto-Regular";
+	font-family: 'Raleway', sans-serif;
 	padding-top: 10px;
 	font-size: 19px;
 	text-align: justify;
@@ -53,7 +53,7 @@ img{
 }
 h4{
 	text-align: center;
-	font-family: "roboto-Regular";
+	font-family: 'Raleway', sans-serif;
 	font-family: 21px;
 	color: #191b1d;
 }
@@ -77,9 +77,11 @@ h4{
 
 /*Start top-bar*/
 .top-bar{
+	border-top: 3px solid #1B9FDD;
 	background-color: #ffff;
 	width: 100%;
-	border-bottom: 1px solid #b7b7b7;	
+	border-radius: 4%;
+	border-bottom: 3px solid #1B9FDD;	
 }
 /*End top-bar*/
 /*Start of contact-us*/
@@ -92,7 +94,7 @@ h4{
 	}
 		.contact-us li a{
 			color: #191b1d;
-			font-family: "roboto-Regular";
+			font-family: 'Raleway', sans-serif;
 			padding-right: 10px;
 			font-size: 14px;
 			font-weight: bold;
@@ -237,7 +239,7 @@ h4{
 	color: #818181; 
 	padding-top: -30px;
 	text-align: center;
-	font-family: "roboto-Regular";
+	font-family: 'Raleway', sans-serif;
 	font-size: 20px;
 }	
 .detail{
